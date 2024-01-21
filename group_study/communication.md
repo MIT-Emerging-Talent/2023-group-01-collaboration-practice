@@ -19,7 +19,7 @@
 
 | Day | How | The topic of discussion |
 | --- | :-: | ----------------------- |
-|     |     |                         |
+|    |     |                         |
 
 ## Communication Channels
 
@@ -39,18 +39,15 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| Hilal  | 2-4 | 5-6 |  2-4 |-2-4 | 2-4 | 5-8 | 8-10 |
+| Hilal  | 2-4 | 5-6 |  2-4 |2-4 | 2-4 | 5-8 | 8-10 |
 
 ### How many hours everyone has per day:
 
 | Name    | Availibility Hours (Per Day) |Comment |
-| Hila Ahmad | 4 Hours | Everday- In addition, I can giveup to 6 to 8 hours per weeked |
+| ------ | :-----: | :-----: |
+| Hila Ahmad | 4 Hours | Everday- In addition, I can give up to 6 to 8 hours per weeked |
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+
 
 ## Asking for Help
 
