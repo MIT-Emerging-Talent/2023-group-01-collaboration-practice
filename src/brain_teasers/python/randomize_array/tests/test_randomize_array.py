@@ -1,8 +1,7 @@
+
 import unittest
 
 from src.randomize_array import randomize_array
-
-
 class TestRandomizeArray(unittest.TestCase):
     def test_randomize_array(self):
         original_array = [1, 2, 3, 4, 5]
