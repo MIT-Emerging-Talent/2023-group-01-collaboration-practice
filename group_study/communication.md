@@ -43,6 +43,9 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### How many hours everyone has per day:
 
+| Name    | Availibility Hours (Per Day) |Comment |
+| Hila Ahmad | 4 Hours | Everday- In addition, I can giveup to 6 to 8 hours per weeked |
+
 - name: _5h_; extra comments?
 - name: _6h_;
 - name: _5h_;
