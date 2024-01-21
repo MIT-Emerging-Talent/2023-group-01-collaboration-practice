@@ -28,8 +28,8 @@ how often will we get in touch on each channel, and what we will discuss there:
 - **Issues**:
 - **Pull Requests**:
 - **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Slack/Discord**: As required, Maybe everday
+- **Video Calls**: Twice a week 
 
 ---
 
