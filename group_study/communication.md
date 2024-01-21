@@ -39,7 +39,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| Hilal  | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Hilal  | 2-4 | 5-6 |  2-4 |-2-4 | 2-4 | 5-8 | 8-10 |
 
 ### How many hours everyone has per day:
 
