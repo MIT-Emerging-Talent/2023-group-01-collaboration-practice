@@ -14,7 +14,8 @@ Some boundaries around our project.
 -->
 
 ## Internal: Involuntary
-
+- Everyone is in a different timezone, we need to overcome this by agreeing on a time that best suits every/most of the group.
+- Technical ability 
 <!--
   constraints that come from within your team, and you have no control over. they may include:
   - each of your individual skill levels
