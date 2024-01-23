@@ -41,6 +41,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
 | Hilal(EST Time)  | 10:00- 12:50 | 5:00-9:00 |11:00 - 13 |11:00 - 13:00 | 11:00 - 13:00 | 5:00-11:00| 5:00-11:00 |
 | Sujood | 11:30 - 13:30 | 10:00 - 14:00 | 10:00 - 14:00 | 10:00 - 14:00 | all day | all day except 10-12| 10:00 - 14:00|
+| Yoseph | 10:00 - 12:00 | 10:00 - 12:00 | 10:00 - 12:00 | 10:00 - 12:00 | 10:00 - 12:00 | 10:00 - 12:00 | 8:00 - 12:00 | 
 
 ### How many hours everyone has per day:
 
@@ -48,7 +49,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | ------ | :-----: | :-----: |
 | Hila Ahmad | 4 Hours | Everday. On weekends, I can give from 4 to 6 hours per day for the Project |
 | Sujood | 3-4 Hours | mostly I am available at night my local time (from around 11:00 am EST |
-
+| Yoseph | 2-4 Hours | Everyday. (from around 10:00 am EST |
 
 
 ## Asking for Help
