@@ -43,7 +43,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Sujood | 11:30 - 13:30 | 10:00 - 14:00 | 10:00 - 14:00 | 10:00 - 14:00 | all day | all day except 10-12| 10:00 - 14:00|
 | Yoseph | 10:00 - 12:00 | 10:00 - 12:00 | 10:00 - 12:00 | 10:00 - 12:00 | 10:00 - 12:00 | 10:00 - 12:00 | 8:00 - 12:00 | 
 | Amr | +11 est any day
-
+|Lourdes|13:00-14:30|13:00-14:00|12:00-14:00|11:00-13:00|16:00-20:00|not availaible|06:30-09:00|
 ### How many hours everyone has per day:
 
 | Name    | Availibility Hours (Per Day) |Comment |
@@ -51,7 +51,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Hila Ahmad | 4 Hours | Everday. On weekends, I can give from 4 to 6 hours per day for the Project |
 | Sujood | 3-4 Hours | mostly I am available at night my local time (from around 11:00 am EST |
 | Yoseph | 2-4 Hours | Everyday. (from around 10:00 am EST |
-| Amr | 2-4 Hours | depends on workload |Lourdes-Erlie|2-4 Hours|Everyday.(from around 11:00 am Est|On weekends, I am availaible only saturday.
+| Amr | 2-4 Hours | depends on workload |Lourdes|2-4 Hours|Everyday.(from around 11:00 am Est|On weekends, I am availaible only saturday.
 
 
 ## Asking for Help
