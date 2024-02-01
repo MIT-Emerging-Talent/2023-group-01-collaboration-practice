@@ -51,7 +51,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Hila Ahmad | 4 Hours | Everday. On weekends, I can give from 4 to 6 hours per day for the Project |
 | Sujood | 3-4 Hours | mostly I am available at night my local time (from around 11:00 am EST |
 | Yoseph | 2-4 Hours | Everyday. (from around 10:00 am EST |
-| Amr | 2-4 Hours | depends on workload |Lourdes|2-4 Hours|Everyday.(from around 11:00 am Est|On weekends, I am availaible only saturday.
+| Amr | 2-4 Hours | depends on workload |Lourdes|2-4 Hours|Everyday.(from around 11:00 am Est|On weekends,I am availaible only sunday.
 
 
 ## Asking for Help
