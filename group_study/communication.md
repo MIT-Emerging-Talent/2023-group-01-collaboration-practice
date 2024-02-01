@@ -43,7 +43,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Sujood | 11:30 - 13:30 | 10:00 - 14:00 | 10:00 - 14:00 | 10:00 - 14:00 | all day | all day except 10-12| 10:00 - 14:00|
 | Yoseph | 10:00 - 12:00 | 10:00 - 12:00 | 10:00 - 12:00 | 10:00 - 12:00 | 10:00 - 12:00 | 10:00 - 12:00 | 8:00 - 12:00 | 
 | Amr | +11 est any day
-|Lourdes|13:00-14:30|13:00-14:00|12:00-14:00|11:00-13:00|16:00-20:00|not availaible|06:30-09:00|
+|Lourdes|13:00-15:00|13:00-15:00|12:00-14:30|11:00-14:00|16:00-20:00|not availaible|06:30-09:30|
 ### How many hours everyone has per day:
 
 | Name    | Availibility Hours (Per Day) |Comment |
